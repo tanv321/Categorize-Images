@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=l8XQsxlGxiY&list=PLxefhmF0pcPl_v-lLsqF3drP6NOoSYJR0&index=7
+
+
+https://stackoverflow.com/questions/78145837/importerror-cannot-import-name-imagedatagenerator-from-keras-preprocessing-i
+
+
+https://stackoverflow.com/questions/61742556/valueerror-shapes-none-1-and-none-2-are-incompatible
+
+
+
+(myenv) tanval@Tanvirs-MBP youtubeDetector % pip list
+Package                 Version
+----------------------- --------
+absl-py                 2.1.0
+astunparse              1.6.3
+certifi                 2024.2.2
+charset-normalizer      3.3.2
+dm-tree                 0.1.8
+flatbuffers             24.3.25
+gast                    0.5.4
+google-pasta            0.2.0
+grpcio                  1.64.0
+h5py                    3.11.0
+idna                    3.7
+imutils                 0.5.4
+joblib                  1.4.2
+keras                   3.0.5
+libclang                18.1.1
+Markdown                3.6
+markdown-it-py          3.0.0
+MarkupSafe              2.1.5
+mdurl                   0.1.2
+ml-dtypes               0.3.2
+namex                   0.0.8
+numpy                   1.26.4
+opencv-python           4.9.0.80
+opencv-python-headless  4.9.0.80
+opt-einsum              3.3.0
+optree                  0.11.0
+packaging               24.0
+pip                     24.0
+protobuf                4.25.3
+Pygments                2.18.0
+PyYAML                  6.0.1
+requests                2.32.2
+rich                    13.7.1
+scikit-learn            1.5.0
+scipy                   1.13.1
+setuptools              70.0.0
+six                     1.16.0
+tensorboard             2.16.2
+tensorboard-data-server 0.7.2
+tensorflow              2.16.1
+termcolor               2.4.0
+threadpoolctl           3.5.0
+typing_extensions       4.12.0
+urllib3                 2.2.1
+Werkzeug                3.0.3
+wheel                   0.43.0
+wrapt                   1.16.0
